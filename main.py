@@ -22,6 +22,9 @@ def bolish(a, b):
 def qoshiq2(a,b):
     print(a+b)
 
+def qoldiq(a, b):
+    print(a % b)
+
 print(foiz(98, 30))
 soz('salom', 3)
 ayirish(34, 40)
