@@ -10,7 +10,8 @@ def qoshish(x, y):
 def ayirish(x, y):
     print(x - y)
 
-
+def daraja(x, y):
+    print(x ** y)
 
 print(foiz(98, 30))
 soz('salom', 3)
