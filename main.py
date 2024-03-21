@@ -3,7 +3,10 @@ def foiz(x: int, y: int):
 
 def soz(a: str, b : int):
     print(a * b)
-
+    
+def qoshish(x, y):
+    print(x + y)
+    
 
 print(foiz(98, 30))
 soz('salom', 3)
