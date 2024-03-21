@@ -19,6 +19,9 @@ def foiz2(a, b):
 def bolish(a, b):
     print(a / b)
 
+def qoshiq2(a,b):
+    print(a+b)
+
 print(foiz(98, 30))
 soz('salom', 3)
 ayirish(34, 40)
