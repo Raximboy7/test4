@@ -13,6 +13,9 @@ def ayirish(x, y):
 def daraja(x, y):
     print(x ** y)
 
+def foiz2(a, b):
+    print(a / b * 100)
+
 print(foiz(98, 30))
 soz('salom', 3)
 ayirish(34, 40)
